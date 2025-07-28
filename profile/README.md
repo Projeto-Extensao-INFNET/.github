@@ -1,12 +1,30 @@
-## Hi there 👋
+# Projeto-Extensão-INFNET
 
-<!--
+Bem-vindo à organização **Futuro nome do projeto**! 👋
 
-**Here are some ideas to get you started:**
+## Sobre
+Em breve
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tecnologias
+
+- **Front-end:** [Vite](https://vitejs.dev/) 
+- **Back-end:** [NestJS](https://nestjs.com/) 
+
+## Missão
+
+Em breve
+
+## Visão
+
+Em breve
+
+## Repositórios principais
+
+- [backend](https://github.com/Projeto-Extensao-INFNET/backend) — API e lógica de negócio (NestJS)
+- [frontend](https://github.com/Projeto-Extensao-INFNET/frontend) — Interface do usuário (Vite)
+
+## Como contribuir
+
+1. Faça um fork do repositório desejado.
+2. Crie uma branch para sua feature ou correção.
+3. Envie um pull request detalhando suas alterações.
