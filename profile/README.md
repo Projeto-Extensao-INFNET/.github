@@ -1,4 +1,4 @@
-# Projeto-Extensão-INFNET
+# Futuro nome do projeto
 
 Bem-vindo à organização **Futuro nome do projeto**! 👋
 
