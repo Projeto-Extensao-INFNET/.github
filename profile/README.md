@@ -1,22 +1,19 @@
-#  PsiConecta / Fell Good / Café com Psi / Cuidado Para Todos / Acesso Psi (irei escolher algum desses)
+# Futuro nome do projeto
 
 Bem-vindo à organização **Futuro nome do projeto**! 👋
 
 ## Sobre
-Em breve
+O projeto (Futuro nome) tem como objetivo (futura explicação)
 
 ## Tecnologias
 
-- **Front-end:** [Vite](https://vitejs.dev/) 
+- **Front-end:** [Vite](https://vitejs.dev/)
+
 - **Back-end:** [NestJS](https://nestjs.com/) 
 
 ## Missão
 
-Em breve
-
-## Visão
-
-Em breve
+A plataforma tem a missão de unir pacientes em situação de vulnerabilidade socioeconômica com profissionais da área da Psicologia com consultas a preço social
 
 ## Repositórios principais
 
