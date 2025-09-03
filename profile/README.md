@@ -16,7 +16,7 @@ O projeto (Futuro nome) tem como objetivo (futura explicação)
 ### **Back-end:** [NestJS](https://nestjs.com/)
   - Typescript
   - Vitest + Supertest
-  - Prisma ORM
+  - Prisma ORM + PostgresSQL
   - Docker
   - Zod
 
