@@ -7,18 +7,18 @@ O projeto (Futuro nome) tem como objetivo (futura explicação)
 
 ## Tecnologias
 
-- **Front-end:** [Vite](https://vitejs.dev/)
-- Typescript
-- Vitest
-- Playwright
-- React Hook Form + Zod
+### **Front-end:** [Vite](https://vitejs.dev/)
+  - Typescript
+  - Vitest
+  - Playwright
+  - React Hook Form + Zod
 
-- **Back-end:** [NestJS](https://nestjs.com/)
-- Typescript
-- Vitest + Supertest
-- Prisma ORM
-- Docker
-- Zod
+### **Back-end:** [NestJS](https://nestjs.com/)
+  - Typescript
+  - Vitest + Supertest
+  - Prisma ORM
+  - Docker
+  - Zod
 
 ## Missão
 
